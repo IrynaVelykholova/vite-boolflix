@@ -17,10 +17,8 @@ export default {
 <template>
 
     <TheHeader></TheHeader>
-
-  <main>
     <CardList></CardList>
-  </main>
+
 </template>
 
 
